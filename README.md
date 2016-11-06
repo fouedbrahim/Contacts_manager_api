@@ -7,10 +7,10 @@ Une API RESTful bien conçue devrait prendre en charge les méthodes HTTP les pl
 Il existe d'autres méthodes HTTP comme OPTIONS, HEAD mais celles-ci sont utilisées le plus souvent. 
 Chaque méthode doit être utilisée en fonction du type d'opération que vous effectuez.
 
-GET Pour récupérer une ressource
-POST Pour créer une nouvelle ressource
-PUT Pour mettre à jour les ressources existantes
-SUPPRIMER Pour supprimer une ressource
+GET Pour récupérer une ressource.
+POST Pour créer une nouvelle ressource.
+PUT Pour mettre à jour les ressources existantes.
+SUPPRIMER Pour supprimer une ressource.
 
 #Slim PHP Framework Micro
 
