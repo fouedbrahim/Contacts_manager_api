@@ -52,13 +52,13 @@ mais la différence est le type de méthode HTTP que nous utilisons pour frapper
  
  
  # API Url Structure
-#URL	                                     #Method		                      #Description
-/register	                                 POST	(name, email, password)	    inscription utilisateur 
-/login	                                   POST  (email, password)	        login
-/contact/Ajout	                           POST	                             creer nouveau contact
+URL	                                       Method		                        Description
+/register	                                POST	(name, email, password)	    inscription utilisateur 
+/login	                                   POST  (email, password)	         login
+/contact/Ajout	                           POST	                            creer nouveau contact
 /contacts	                                 GET		                           lister tous les contacts
-/contacts/:id	                             GET	                             lister un seul  contacts
-/contact/Modifier/:id	                     PUT	                             Modifier un contact
+/contacts/:id	                             GET	                            lister un seul  contacts
+/contact/Modifier/:id	                     PUT	                            Modifier un contact
 /contact/Supprimer/:id	                   DELETE Supprimer 	un contact
 
 
